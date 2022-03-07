@@ -19,7 +19,6 @@ class program
     }
 
 }
-
 # output
 
 ![image](https://user-images.githubusercontent.com/83021508/156968835-543c7570-953d-454e-bc00-723ad899c8be.png)
